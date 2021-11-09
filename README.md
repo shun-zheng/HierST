@@ -1,7 +1,7 @@
 # HierST
 
 Source code for the paper,
-["HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend Forecasting"](https://www.cikm2021.org/accepted-papers/applied),
+["HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend Forecasting"](https://dl.acm.org/doi/abs/10.1145/3459637.3481927),
 accepted by CIKM 2021.
 
 ## Setup
